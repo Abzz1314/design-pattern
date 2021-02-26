@@ -85,3 +85,4 @@ int main()
 	return 0;
 }
 ```
+![简单工程模式](/picture/simple_factory,png)
